@@ -1,0 +1,291 @@
+* {
+    padding: 0px;
+    margin: 0px;
+
+    font-style: normal;
+    position: absolute;
+}
+
+.banner {
+
+    width: 1600px;
+    height: 808px;
+    left: 0px;
+    top: 0px;
+
+    background-image: url('../banner/banner3.png');
+}
+
+.fpart {
+    width: 520px;
+    height: 225px;
+    left: 845px;
+    top: 216px;
+
+
+    font-family: sans-serif;
+    font-weight: 700;
+    font-size: 65px;
+    line-height: 76px;
+    text-align: right;
+
+    color: #dbd6d6;
+
+}
+
+.spart {
+    position: absolute;
+    width: 494px;
+    height: 78px;
+    left: 876px;
+    top: 468px;
+    font-style: normal;
+    font-weight: 600;
+    font-family: 'Work Sans';
+    font-size: 22px;
+    line-height: 32px;
+
+
+    text-align: right;
+
+    color: #d8d4d4;
+}
+
+.btn {
+    width: 160px;
+    height: 50px;
+    left: 1210px;
+    top: 680px;
+
+    background: #FFFFFF;
+
+    font-family: 'Work Sans';
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 22px;
+    text-align: center;
+    color: #022e52;
+}
+
+.girl {
+    position: absolute;
+    width: 570px;
+    height: 723.3px;
+    left: 206px;
+    top: 939px;
+}
+
+.title {
+    position: absolute;
+    width: 288px;
+    height: 94px;
+    left: 862px;
+    top: 1178px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+    color: royalblue;
+}
+
+.description {
+    position: absolute;
+    width: 416px;
+    height: 104px;
+    left: 862px;
+    top: 1296px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: darkslategray;
+}
+
+.list {
+    list-style-type: vector;
+    left: 16.67%;
+    right: 16.67%;
+    top: 25%;
+    bottom: 29.17%;
+
+
+
+
+    width: 349px;
+    height: 162px;
+    left: 862px;
+    top: 1416px;
+
+
+}
+
+.plan {
+    position: absolute;
+    width: 179px;
+    height: 47px;
+    left: 765px;
+    top: 1792px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+    text-align: center;
+    color: #151414;
+}
+
+.icon1 {
+    position: absolute;
+    width: 92.96px;
+    height: 92.96px;
+    left: 294px;
+    top: 1895px;
+}
+
+.icon2 {
+    position: absolute;
+    width: 92.96px;
+    height: 92.96px;
+    left: 631px;
+    top: 1892px;
+}
+
+.icon3 {
+    position: absolute;
+    width: 93px;
+    height: 93px;
+    left: 916px;
+    top: 1889px;
+}
+
+.icon4 {
+    position: absolute;
+    width: 92.96px;
+    height: 92.96px;
+    left: 1218px;
+    top: 1889px;
+}
+
+.t1 {
+    position: absolute;
+    width: 270px;
+    height: 35px;
+    left: 230px;
+    top: 2012.26px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 35px;
+    text-align: center;
+    color: black;
+}
+
+.t2 {
+    position: absolute;
+    width: 156px;
+    height: 35px;
+    left: 599px;
+    top: 2006.3px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 35px;
+    text-align: center;
+    color: black
+}
+
+.t3 {
+    position: absolute;
+    width: 218px;
+    height: 35px;
+    left: 853px;
+    top: 2006.3px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 35px;
+    text-align: center;
+    color: black;
+}
+
+.t4 {
+
+    position: absolute;
+    width: 174px;
+    height: 35px;
+    left: 1177px;
+    top: 2006.3px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 35px;
+    text-align: center;
+    color: black;
+}
+
+.p1 {
+
+    position: absolute;
+    width: 177px;
+    height: 29px;
+    left: 280px;
+    top: 2063.26px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 29px;
+    text-align: center;
+    color: dimgrey;
+}
+
+.p2 {
+    position: absolute;
+    width: 181px;
+    height: 29px;
+    left: 586px;
+    top: 2057.3px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 29px;
+    text-align: center;
+    color: dimgray;
+}
+
+.p3 {
+    position: absolute;
+    width: 164px;
+    height: 29px;
+    left: 880px;
+    top: 2057.3px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 29px;
+    text-align: center;
+    color: dimgray;
+}
+
+.p4 {
+    position: absolute;
+    width: 214px;
+    height: 29px;
+    left: 1157px;
+    top: 2057.3px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 29px;
+    text-align: center;
+    color: dimgray;
+}
